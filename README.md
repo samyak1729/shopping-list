@@ -1,2 +1,2 @@
 # shopping-list
-a simple mobile friendly web-app for the next time you go grocery shopping. clean and minimalist ui
+a simple mobile friendly web-app for the next time you go grocery shopping.
